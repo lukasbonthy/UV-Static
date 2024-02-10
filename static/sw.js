@@ -1,6 +1,6 @@
 var cacheName = 'TIWcog';
 var filesToCache = [
-  'UV-Static/js/sw.js'
+  'js/sw.js'
 ];
 
 self.addEventListener('install', function(e) {
